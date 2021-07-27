@@ -1,0 +1,67 @@
+[
+    {
+        "id": 1,
+        "image": "assets/products/corvette.jpg",
+        "title": "Corvette C7",
+        "price": "Rs 470000",
+        "location": "Islamabad",
+        "sellerName": "Ali" 
+    },
+    {
+        "id": 2,
+        "image": "assets/products/lamborgini.jpg",
+        "title": "Lamborgini",
+        "price": "Rs 570000",
+        "location": "Murree",
+        "sellerName": "Hassan" 
+    },
+    {
+        "id": 3,
+        "image": "assets/products/land-cruiser.jpg",
+        "title": "Land Cruiser",
+        "price": "$470000",
+        "location": "Mianwali",
+        "sellerName": "Husna" 
+    },
+    {
+        "id": 4,
+        "image": "assets/products/mclaren.jpg",
+        "title": "McLaren",
+        "price": "Rs 4,50,000",
+        "location": "Faisalabad",
+        "sellerName": "Hammad" 
+    },
+    {
+        "id": 5,
+        "image": "assets/products/mercedes.jpg",
+        "title": "Mercedes",
+        "price": "Rs 9,70,000",
+        "location": "Lahore",
+        "sellerName": "Saad" 
+    },
+    {
+        "id": 6,
+        "image": "assets/products/rolls-royce.jpg",
+        "title": "Rolls Royce Ghost",
+        "price": "Rs 9,70,000",
+        "location": "Islamabad",
+        "sellerName": "Ali" 
+    },
+    {
+        "id": 7,
+        "image": "assets/products/tesla-model-s.jpg",
+        "title": "Tesla Model S",
+        "price": "Rs 11,70,000",
+        "location": "Karachi",
+        "sellerName": "Moiz" 
+    },
+    {
+        "id": 8,
+        "image": "assets/products/spirit-of-ecstasy.jpg",
+        "title": "Spirit of Ecstasy",
+        "price": "Rs 14,70,000",
+        "location": "Naran",
+        "sellerName": "Sami" 
+    }
+  
+]
